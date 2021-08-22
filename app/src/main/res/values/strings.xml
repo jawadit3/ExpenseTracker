@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string-array name="monthsArray">
+        <item>january</item>
+        <item>febraury</item>
+        <item>march</item>
+        <item>april</item>
+        <item>may</item>
+        <item>june</item>
+        <item>july</item>
+        <item>august</item>
+        <item>september</item>
+        <item>august</item>
+        <item>september</item>
+        <item>october</item>
+        <item>november</item>
+        <item>december</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
